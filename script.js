@@ -1,4 +1,4 @@
-const API_KEY = 'REMOVED';
+const API_KEY = 'AIzaSyByYVvj3gNxZer37bInpITDrXbyEH8hEfo';
 
 const form = document.getElementById('search-form');
 const resultsDiv = document.getElementById('results');
